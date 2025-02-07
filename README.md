@@ -12,12 +12,14 @@ From an observation taking place on February the 22nd of 2024 with the Telescope
 As a result, it has been concluded that the cluster is a relatively young source with most of its stars remaining along the main sequence according to the analyzed data.
 
 ## Main Results
-### 
+
+### Aperture Selection
+NOTE: the arrow points to the calibration star
+<img src="https://github.com/angelaabad/MSc-Data-Reduction-and-Analysis-of-the-M35-Open-Stellar-Cluster/blob/main/Images/Aperture-selection-B-band.png" width="550" />
+
+### Effective Temperatures V.S. Intrinsic Colors for a Time Exposure of $`t_{exp} = 50s`$
+<img src="https://github.com/angelaabad/MSc-Data-Reduction-and-Analysis-of-the-M35-Open-Stellar-Cluster/blob/main/Images/Effective-temperature-versus-intrinsic-color.png" width="500" />
+
+### HR Diagram for Each Exposure Time with Fitted Isochrones
 <img src="https://github.com/angelaabad/MSc-Data-Reduction-and-Analysis-of-the-M35-Open-Stellar-Cluster/blob/main/Images/HR-diagram-with-isochrones.png" width="500" />
 
-### 
-<img src="https://github.com/angelaabad/MSc-Data-Reduction-and-Analysis-of-the-M35-Open-Stellar-Cluster/blob/main/Images/Effective-temperature-versus-intrinsic-color.png" width="450" />
-
-
-###
-<img src="https://github.com/angelaabad/MSc-Data-Reduction-and-Analysis-of-the-M35-Open-Stellar-Cluster/blob/main/Images/Aperture-selection-B-band.png" width="450" />
