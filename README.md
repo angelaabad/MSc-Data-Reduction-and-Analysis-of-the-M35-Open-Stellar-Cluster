@@ -14,8 +14,8 @@ As a result, it has been concluded that the cluster is a relatively young source
 ## Main Results
 
 ### Aperture Selection
-NOTE: the arrow points to the calibration star
 <img src="https://github.com/angelaabad/MSc-Data-Reduction-and-Analysis-of-the-M35-Open-Stellar-Cluster/blob/main/Images/Aperture-selection-B-band.png" width="550" />
+NOTE: the arrow points to the calibration star
 
 ### Effective Temperatures V.S. Intrinsic Colors for a Time Exposure of $`t_{exp} = 50s`$
 <img src="https://github.com/angelaabad/MSc-Data-Reduction-and-Analysis-of-the-M35-Open-Stellar-Cluster/blob/main/Images/Effective-temperature-versus-intrinsic-color.png" width="500" />
